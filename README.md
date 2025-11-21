@@ -4,10 +4,10 @@ Projeto didático de **Processamento de Linguagem Natural (NLP)** em Java, focad
 
 O sistema combina:
 
-- um **classificador por regras** (lexicon-based), e  
-- um **classificador de Machine Learning** usando Tribuo,  
+- um **classificador por regras** (lexicon-based)
+- um **classificador de Machine Learning** usando Tribuo  
 
-seguindo uma **arquitetura em camadas** (domain / application / infrastructure / presentation) e interface única de domínio para alternar entre as implementações.
+Seguindo uma **arquitetura em camadas** (domain / application / infrastructure / presentation) e interface única de domínio para alternar entre as implementações.
 
 > Pensado como projeto de estudos para pós-graduação em IA / NLP e também como portfólio de backend Java.
 
