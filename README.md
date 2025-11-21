@@ -1,4 +1,4 @@
-# NLP Practice – Classificador de Sentimentos em Java 🇧🇷
+# NLP Practice – Classificador de Sentimentos em Java 
 
 Projeto didático de **Processamento de Linguagem Natural (NLP)** em Java, focado em **classificação de sentimento** (positivo / negativo / neutro) em textos curtos em português.
 
@@ -224,4 +224,4 @@ Este projeto foi desenvolvido como prática de:
 - **arquitetura limpa** (separação de camadas e interfaces),
 - integração de **regras heurísticas + modelo estatístico** num mesmo sistema.
 
-Sinta-se à vontade para clonar, estudar, adaptar e experimentar com novos dados e regras. 🙂
+Sinta-se à vontade para clonar, estudar, adaptar e experimentar com novos dados e regras. 
